@@ -1,0 +1,27 @@
+*{
+    font-family: 'RocknRoll One', sans-serif;
+}
+.img_c,.video{
+    width: 100%;
+    object-fit: cover;
+   
+    
+}
+.img_a,.skins,.C_img,.C_video{
+    margin-top: 20px;
+}
+.img_b,.img_a{
+    width: 100%;
+    height: auto;
+}
+
+
+footer{
+    margin-top: 30px;
+    padding-top: 60px ;
+    padding-bottom:60px ;
+}
+ul>li{
+    list-style: none;
+}
+
